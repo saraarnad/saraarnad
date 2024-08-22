@@ -8,8 +8,7 @@
 
 🏊🏼‍♀️🚴🏻‍♀️🏃🏼‍♀️ When I'm not coding, you can find me pushing my limits in the world of triathlons.
 
-📬 Feel free to connect with me via [Email](mailto:saraarnadottir@gmail.com) and [Linkedin]([(https://www.linkedin.com/in/sara-árnadóttir)])
-
+📬 Feel free to connect with me via [Email](mailto:saraarnadottir@gmail.com) and [Linkedin]([https://www.linkedin.com/in/sara-árnadóttir])
 
 <!--
 **saraarnad/saraarnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
