@@ -1,6 +1,6 @@
 # McDaginn 🥰🇮🇸
 
-🙋‍♀️ I'm Sara, a Software Engineer who hasn't been very active on GitHub/LinkedIn, but I'm stepping up now that I've started my own startup, Kuratech.
+🙋‍♀️ I'm Sara, a Software Engineer from Iceland who is working on her own startup, Kuratech.
 
 👩🏼‍💻 I'm a full-stack engineer with a broad range of experience across various domains in software development.
 
